@@ -14,3 +14,28 @@ For setting, 2 parameters are used in the main program file.
 
 Thanks to this program, you can verify the plausibility of this paradox. You will really see that if there are 23 people in a group, then the probability of at least two people having the same birthday is more than 50%, and if there are 70 of them, then the probability will be more than 99.9% at all
 
+## Experimental data
+
+```
+| Count Of Humans: 23
+| Count Of Experiments: 10000
+| Final Probability: 0.5119
+```
+
+```
+| Count Of Humans: 26
+| Count Of Experiments: 10000
+| Final Probability: 0.5911
+```
+
+```
+| Count Of Humans: 38
+| Count Of Experiments: 10000
+| Final Probability: 0.8647
+```
+
+```
+| Count Of Humans: 70
+| Count Of Experiments: 10000
+| Final Probability: 0.9988
+```
