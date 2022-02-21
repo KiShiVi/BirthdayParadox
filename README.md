@@ -7,7 +7,7 @@ This program selects a given number of people, assigns a random birthday to each
 
 ## Setting
 For setting, 2 parameters are used in the main program file.
-1) countOfExperiments - number of experiments. The larger the number, the longer the statistics will be calculated, but the more accurate the result will be. Recommended value - 1000
+1) countOfExperiments - number of experiments. The larger the number, the longer the statistics will be calculated, but the more accurate the result will be. Recommended value - 1000-10000
 2) countOfHumans - the number of people in the group. The default is 23.
 
 ## Conclusions
